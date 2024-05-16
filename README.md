@@ -12,4 +12,3 @@ The dataset corresponds to a record of COVID-19 cases in India in various states
 #### Upload the given dataset copy its path and paste it into the read_csv statement.
 #### Run the cell one by one and wait till the execution is completed.
 #### Follow the comments for understanding and flow of the program.
-#### There is no other instruction.
